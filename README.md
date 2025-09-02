@@ -36,7 +36,7 @@ The goal is to collect structured datasets for analytics & research.
     ├── data_cleaning.py
     ├── save_to_csv.py
     └── ...
-
+```
 ## 📂 Repository Structure
 - `scripts/` → Python scrapers for each website  
 - `data/` → Collected datasets (CSV files)  
