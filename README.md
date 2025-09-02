@@ -9,7 +9,8 @@ The goal is to collect structured datasets for analytics & research.
 - Saves results in CSV format
 - Extendable for other websites (Flipkart, Myntra, etc.)
 
-web-scraper-project/
+
+ ```web-scraper-project/
 │
 ├── README.md                # Project overview & usage instructions
 ├── requirements.txt         # List of dependencies (requests, bs4, pandas, numpy, etc.)
@@ -35,8 +36,6 @@ web-scraper-project/
     ├── data_cleaning.py
     ├── save_to_csv.py
     └── ...
-
-
 
 ## 📂 Repository Structure
 - `scripts/` → Python scrapers for each website  
